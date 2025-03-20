@@ -28,52 +28,53 @@ In this paper I will reexamine the scarce but significant papyrological evidence
 
 This paper reads Roman-era marriage and apprenticeship contracts in dialogue. Both apprenticeships and marriages involved the redistribution of a young person's labor and the forging of lifelong relationships. This paper, in comparing these contracts, helps to illuminate the economic and social opportunities--and concerns--presented by the introduction of new members into the household.
 
-**11:30    “Under Contract” in Roman Egypt: Gender, labor, and law in Roman Egypt through the lens of P.Ryl. 2.128 (DM Ratzan, ISAW)**
-
-**12:00    Double dependencies: Child-pledging in late antique paramonē contracts (Mo van de Wege, Princeton)**
+**11:30    Double dependencies: Child-pledging in late antique paramonē contracts (Mo van de Wege, Princeton)**
 
 Throughout (late) antiquity, families gave up children born to them. Late Roman imperial law convoluted child-pledging with the selling, exposing, donating, and hiring out of one’s freeborn children. Child-pledging has exclusively been analyzed in relation to child labor. In this paper, I will disentangle child-pledging from other forms of child servitudes. Instead, I place this common practice within its contractual context of stipulating debt-labor relations. Late antique <i>paramonē</i> contracts formulated the conditions for the temporary binding of a debtor in servile labor to the creditor as a separate yet interlocking clause of their anticretic arrangement. Child-pledging was one distinct alternative to self-pledging in <i>paramonē</i> contracts. I illustrate how child-pledging at once subjected the freeborn child to the entangled double dependencies of the child’s relation to their guardian and of the guardian’s to the creditor.
 
-**12:30    Ties that Bind: Relationships of Dependence within Estate Communities of Late Antique Egypt (Lucia Waldschuetz, Princeton)**
+**12:00    Ties that Bind: Relationships of Dependence within Estate Communities of Late Antique Egypt (Lucia Waldschuetz, Princeton)**
 
 Between the fifth and seventh centuries, tenants and workers on Egyptian landed estates served as sureties for one another. The contracts, written and preserved on papyri, were required by the landowners upon the debtor’s release from prison to secure future rent and tax payments. The guarantors typically agreed to ensure that their charge would stay on their land, fulfill their work, and appear whenever and wherever requested. My research shows that persons in need of a surety turned to relatives and their local communities looking for support. I demonstrate that these guarantors willingly accepted the liability and, thus, great risks to their livelihoods and social standing when providing surety. Furthermore, I illustrate the ways in which these legal contracts established three-way relationships of dependence between landowners, guarantors, and debtors.
 
-## 1:00: LUNCH (Oak Library)
+## 12:30: LUNCH (Oak Library)
 
-### *New papyrological editions*
+### *New papyrological editions and scribal practice*
 
-**2:00    Temple Trees, Semitic Names, and Large Estates: An Administrative Papyrus from the Necropolis of Philadelphia (Alejandro Quitana, Yale)**
+**1:30    Temple Trees, Semitic Names, and Large Estates: An Administrative Papyrus from the Necropolis of Philadelphia (Alejandro Quitana, Yale)**
 
 This paper discusses P.Phil.Nec. 24, an unpublished Roman documentary papyrus from Philadelphia dating to the late second-early third centuries CE. Unlike most papyri, P.Phil.Nec. 24 has a secure archeological context, discovered in a grave in the town’s necropolis together with several other papyri, most notably the new Euripides papyrus. After an overview of the context and content of the papyrus, I focus on the list of trees in temples on the verso. This text provides a unique holistic view of the cultic landscape of an unnamed Fayumic village and reveals the ecological dimensions of cult and its intersection with Roman administrative practices. I then turn to the material history of the papyrus. I demonstrate that the unnamed village of the list of trees was located in the northern meris of Polemon. Similarly, the concentration of apparently Semitic names in the sitologoi account on the recto do not suit Philadelphia, and the Egyptian onomastics of this account point to the meris of Polemon. I therefore conclude by considering how this difference between content and findspot contextualizes the archeology of the papyrus.
 
-**2:30    Solidi and Security: A letter between Eulogios and Theodore (Irene Soto Marín, Harvard)**
+**2:00    Solidi and Security: A letter between Eulogios and Theodore (Irene Soto Marín, Harvard)**
 
 This paper presents the edition of a letter or receipt (P. Col. Inv. 165) from the chrysones of Arcadia, Aurelius Eulogios, addressed to another chrysones, Flavius Theodore. Dated tentatively to 421 CE, this papyrus offers a glimpse into the role of fifth-century provincial bankers. While certain aspects of the transaction remain elusive, the document elucidates the nature of the relationship among these financial administrators and sheds light on the circulation of gold in Egypt. Although fragmentary, the text captures our attention with its mention of sixty solidi transferred from Eulogios’ office, of which ten were earmarked as security. Furthermore, an agreement emerges regarding the distribution of these funds: in addition to the ten solidi held as collateral, two solidi are to be allocated directly to Theodore. This intriguing glimpse into their financial dealings invites deeper inquiry into the economic networks of the period.
 
-**3:00    Scribal Alteration in Papyrus Palau-Ribes 225v (Zachary Domach, NYU)**
+**2:30    Scribal Alteration in Papyrus Palau-Ribes 225v (Zachary Domach, NYU)**
 
 The Sentences of Sextus is a second-century collection of 451 Greek maxims with an overtly Christian tone.  Constructed as a guide to achieving moral and spiritual excellence, the gnomology offers an ascetic Christian spin on earlier Pythagorean, Platonic, and Stoic wisdom traditions and presents a rare look into late antique Christianity’s more quotidian forms. Here I  examine Papyrus Palau-Ribes 225v, a fragmentary palimpsest whose transfibral side contains 21 clearly identifiable maxims from the Sentences of Sextus. Written in the late fourth or early fifth century, the papyrus is our earliest witness to the Greek version of the Sentences. Although not especially useful for textual criticism, Papyrus Palau-Ribes 225v testifies to the continued circulation of the Greek Sextus in the centuries after Origen. More precisely, it reveals how Christians adapted wisdom literature like the Sentences to their immediate contexts and needs. My paper analyzes the scribal alterations to the Sentences of Sextus which are preserved within Papyrus Palau-Ribes 225v and connects these changes to larger patterns of textual transmission within ancient Mediterranean wisdom literature.
 
-## 3:30 COFFEE BREAK (Oak Library)
-
-**3:45    Visual bilingualism: scribes and their training (Sofia Toralles Tovar, IAS, Princeton)**
+**3:00    Visual bilingualism: scribes and their training (Sofia Toralles Tovar, IAS, Princeton)**
 
 When studying language contact in the ancient world we play with the disadvantage of not having access to the spoken language. Corpus linguistics, however, have developed multiple methods to obtain information from the written sources. Taking one step further in this direction I propose using scribal practice to explore other facets of this linguistic contact: the scribe leaves clues behind that can be used as a window into language perception in a bilingual community such as Roman Egypt
 
+## 3:30 COFFEE BREAK (Oak Library)
+
 ### *Ancient science and magic*
 
-**4:15    Observations on P*P.Hib.* 1.27 (Alexander Jones, ISAW)**
+**4:00    Observations on P*P.Hib.* 1.27 (Alexander Jones, ISAW)**
 
 *P.Hib.* 1.27, extracted from mummies datable to around 240 BCE, preserves parts of two interrelated texts: a frame narrative ascribing the writer’s astronomical and calendrical knowledge to his personal acquaintance with an “altogether wise man from Sais”; and a calendrically structured list of dates associated with annually recurring astronomical and meteorological phenomena and religious festivals. In preparation for a new edition with F. Schironi, my paper focuses on the dating of the texts; composition and of the extant copy, and on the rationale according to which the calendar text was constructed. To date the extant copy one cannot simply look for when the astronomical data would have been accurate, ignoring the context of the astronomical culture of early Hellenistic Egypt. And while it is recognized that the calendar text draws on more than one source, e.g. the Greek parapegmata for dates of risings and settings of constellations, whereas the festivals are Egyptian or Greco-Egyptian—the principles on which the text was constructed have not been remarked upon, in particular that the listed calendar dates were determined by the stellar and solar phenomena.
 
-**4:45    No Wizard That There Is Or Was: Reconfiguring the “Coptic Wizard’s Hoard” into an Archive (Elizabeth Hane, Princeton)**
+**4:30    Licking and Swallowing Eggs: The Role of the Senses in the Graeco-Egyptian Magical Papyri (Mathew Andrews, Princeton)**
+
+The Graeco-Egyptian magical papyri are filled with detailed instructions on how to perform complex religious rituals. In many rituals the practitioners are instructed to use everyday objects in unusual ways to achieve their magical goals. This talk will explore one particular ritual given in the 3rd/4th century CE magical papyrus, P.Lond. 121 (PGM VII = GEMF 74). It will pay particular attention to the sensory and embodied nature of the ritual to get a better sense of the lived experience of the ritualist. In particular, the use of eggs – which we find the ritualist licking and swallowing – will be examined, both in how it may have been experienced by the practitioner, and how it relates to other practices in the magical papyri.
+
+**5:00    No Wizard That There Is Or Was: Reconfiguring the “Coptic Wizard’s Hoard” into an Archive (Elizabeth Hane, Princeton)**
 
 Roughly 20 years ago, Paul Mirecki published the last major work on P. Mich. inv. 693-603, 1294–more commonly known as the “Coptic Wizard's Hoard.” Adapting the work of Korshu Dosoo and Sofia Torallas Tovar (especially their “Anatomy of the Magical Archive”), this paper reimagines the collection not as a 'hoard', but instead as an active, dynamic magical archive. By reframing the hoard as an interrelated archive, I imagine the collection as a stable library that widely engages with a literate audience. I then disrupt the typology of the “holy man” and disentangle the archive from the wizard. Reading into the miniaturizing elements of the prescriptions, I observe the collection—not just the practitioner—as itinerant and interactive. Thus, transitioning from hoard to archive and from wizard to none restores agency to this body of text and illustrates its highly accessible features, thereby laying out a new mode of understanding this magical collection.
 
 ### *Wrapping up*
 
-**5:15    The Next “Vesuvius”: Fostering Computer Science Collaborations for Papyrology at NYU (or the NY metro region?) (Patrick J. Burns, ISAW)**
+**5:30    Closing remarks and the Next “Vesuvius”: Fostering Computer Science Collaborations for Papyrology at NYU (or the NY metro region?) (David M. Ratzan and Patrick J. Burns, ISAW)**
 
 Putting together a competitive team for something like The Vesuvius Challenge—by the prize's own advertising, a project to “resurrect an ancient library from the ashes of a volcano”—requires the ability to marshal resources from a number of different departments and programs, many of which perhaps do not have existing collaborations. The issuers of the challenge describe it as a “machine learning, computer vision, and geometry competition,” but it is also clearly a papyrological project as well as a project that could and should draw on expertise in classical philology and literary studies and ancient history, among other fields. What I am trying to accomplish with this presentation is a brief brainstorming session based on the thought experiment: imagine a Vesuvius Challenge-like competition is launched a year from today, what networks should we be building and what resources could we be developing now at NYU (and in fact in the NYC papyrological community in general) to be best prepared for such an announcement.
 
-**5:30    Closing remarks (DM Ratzan, ISAW)**
