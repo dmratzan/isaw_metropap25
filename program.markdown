@@ -20,7 +20,7 @@ The episkepsis reports of Roman Egypt provide a crucial lens through which to an
 
 In this paper I will reexamine the scarce but significant papyrological evidence of the operations of the city council (or boule) of Heracleopolis Magna during the first century of its existence. While more than twenty documents from the third century CE mention Heracleopolite councillors—32 bouleutai in total—the boule as a political body only appears in four texts, two official letters from the prytanis (BGU 3.924 & CPR 23.18) and two records of council proceedings (BGU 3.925 & SPP 20.60). With the exception of CPR 23.18, these texts were published in the early twentieth century and have not received much attention since, partly because the two BGU texts were lost in a fire before their edition was even published, alongside the other materials unearthed during Ulrich Wilcken’s 1899 papyrological excavation at Heracleopolis. In my talk, I will address the prospects and pitfalls of a “papyrology without papyri”. More specifically, I will suggest an identification of the addressee of BGU 3.924, whose title has not been preserved and his name only partially; I will explore whether BGU 3.925 is concerned with either a shortage of bouleutai or a tax deficit, both of which have been suggested in previous studies; and I will discuss the complex structure of what are likely the original proceedings of a council meeting (rather than a copy), SPP 20.60, which is not yet fully understood.
 
-## 10:30 COFFEE BREAK (Oak Library)
+### 10:30 COFFEE BREAK (Oak Library)
 
 ### *Social history: the sociology and economics of dependence in Roman Egypt*
 
@@ -36,7 +36,7 @@ Throughout (late) antiquity, families gave up children born to them. Late Roman 
 
 Between the fifth and seventh centuries, tenants and workers on Egyptian landed estates served as sureties for one another. The contracts, written and preserved on papyri, were required by the landowners upon the debtor’s release from prison to secure future rent and tax payments. The guarantors typically agreed to ensure that their charge would stay on their land, fulfill their work, and appear whenever and wherever requested. My research shows that persons in need of a surety turned to relatives and their local communities looking for support. I demonstrate that these guarantors willingly accepted the liability and, thus, great risks to their livelihoods and social standing when providing surety. Furthermore, I illustrate the ways in which these legal contracts established three-way relationships of dependence between landowners, guarantors, and debtors.
 
-## 12:30: LUNCH (Oak Library)
+### 12:30: LUNCH (Oak Library)
 
 ### *New papyrological editions and scribal practice*
 
@@ -56,7 +56,7 @@ The Sentences of Sextus is a second-century collection of 451 Greek maxims with 
 
 When studying language contact in the ancient world we play with the disadvantage of not having access to the spoken language. Corpus linguistics, however, have developed multiple methods to obtain information from the written sources. Taking one step further in this direction I propose using scribal practice to explore other facets of this linguistic contact: the scribe leaves clues behind that can be used as a window into language perception in a bilingual community such as Roman Egypt
 
-## 3:30 COFFEE BREAK (Oak Library)
+### 3:30 COFFEE BREAK (Oak Library)
 
 ### *Ancient science and magic*
 
