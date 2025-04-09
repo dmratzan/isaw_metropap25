@@ -6,7 +6,7 @@ permalink: /program/
 
 **8:45    Welcome (David M. Ratzan, ISAW)**
 
-### *Economic and administrative history of Roman Egypt*
+### *Economic, administrative, and legal history of Roman Egypt*
 
 **9:00    Reexamining Wage Rates in the Early Roman Empire: New Frontiers for Quantitative Analysis (Gabriel Parlin, Harvard)**
 
