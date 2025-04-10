@@ -40,7 +40,7 @@ Between the fifth and seventh centuries, tenants and workers on Egyptian landed 
 
 ### *New papyrological editions and scribal practice*
 
-**1:15    Temple Trees, Semitic Names, and Large Estates: An Administrative Papyrus from the Necropolis of Philadelphia (Alejandro Quitana, Yale)**
+**1:15    Temple Trees, Semitic Names, and Large Estates: An Administrative Papyrus from the Necropolis of Philadelphia (Alejandro Quintana, Yale)**
 
 This paper discusses P.Phil.Nec. 24, an unpublished Roman documentary papyrus from Philadelphia dating to the late second-early third centuries CE. Unlike most papyri, P.Phil.Nec. 24 has a secure archeological context, discovered in a grave in the town’s necropolis together with several other papyri, most notably the new Euripides papyrus. After an overview of the context and content of the papyrus, I focus on the list of trees in temples on the verso. This text provides a unique holistic view of the cultic landscape of an unnamed Fayumic village and reveals the ecological dimensions of cult and its intersection with Roman administrative practices. I then turn to the material history of the papyrus. I demonstrate that the unnamed village of the list of trees was located in the northern meris of Polemon. Similarly, the concentration of apparently Semitic names in the sitologoi account on the recto do not suit Philadelphia, and the Egyptian onomastics of this account point to the meris of Polemon. I therefore conclude by considering how this difference between content and findspot contextualizes the archeology of the papyrus.
 
