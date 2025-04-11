@@ -24,19 +24,15 @@ This paper will describe the role that vandalism played in disputes in Roman Egy
 
 ### *Social history: the sociology and economics of dependence in Roman Egypt*
 
-**11:00    Under My Roof: Roman-Era Marriage and Apprenticeship Contracts in Dialogue (Mikayla Barreiro, Princeton)**
+**11:15    Under My Roof: Roman-Era Marriage and Apprenticeship Contracts in Dialogue (Mikayla Barreiro, Princeton)**
 
 This paper reads Roman-era marriage and apprenticeship contracts in dialogue. Both apprenticeships and marriages involved the redistribution of a young person's labor and the forging of lifelong relationships. This paper, in comparing these contracts, helps to illuminate the economic and social opportunities--and concerns--presented by the introduction of new members into the household.
 
-**11:30    Double dependencies: Child-pledging in late antique paramonē contracts (Mo van de Wege, Princeton)**
-
-Throughout (late) antiquity, families gave up children born to them. Late Roman imperial law convoluted child-pledging with the selling, exposing, donating, and hiring out of one’s freeborn children. Child-pledging has exclusively been analyzed in relation to child labor. In this paper, I will disentangle child-pledging from other forms of child servitudes. Instead, I place this common practice within its contractual context of stipulating debt-labor relations. Late antique <i>paramonē</i> contracts formulated the conditions for the temporary binding of a debtor in servile labor to the creditor as a separate yet interlocking clause of their anticretic arrangement. Child-pledging was one distinct alternative to self-pledging in <i>paramonē</i> contracts. I illustrate how child-pledging at once subjected the freeborn child to the entangled double dependencies of the child’s relation to their guardian and of the guardian’s to the creditor.
-
-**12:00    Ties that Bind: Relationships of Dependence within Estate Communities of Late Antique Egypt (Lucia Waldschuetz, Princeton)**
+**11:45    Ties that Bind: Relationships of Dependence within Estate Communities of Late Antique Egypt (Lucia Waldschuetz, Princeton)**
 
 Between the fifth and seventh centuries, tenants and workers on Egyptian landed estates served as sureties for one another. The contracts, written and preserved on papyri, were required by the landowners upon the debtor’s release from prison to secure future rent and tax payments. The guarantors typically agreed to ensure that their charge would stay on their land, fulfill their work, and appear whenever and wherever requested. My research shows that persons in need of a surety turned to relatives and their local communities looking for support. I demonstrate that these guarantors willingly accepted the liability and, thus, great risks to their livelihoods and social standing when providing surety. Furthermore, I illustrate the ways in which these legal contracts established three-way relationships of dependence between landowners, guarantors, and debtors.
 
-### 12:30: LUNCH (Oak Library)
+### 12:15: LUNCH (Oak Library)
 
 ### *New papyrological editions and scribal practice*
 
